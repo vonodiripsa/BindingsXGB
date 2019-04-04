@@ -1,2 +1,1 @@
-# BindingsXGB
-XGBoost Bindings for .Net Core
+# XGBoost.Net
